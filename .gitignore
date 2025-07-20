@@ -1,0 +1,17 @@
+# Ignore Python cache, models, and system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+env/
+venv/
+.build/
+*.log
+models/*.pkl
+models/*.joblib
+output/
+input/
+*.DS_Store
+.idea/
+.vscode/

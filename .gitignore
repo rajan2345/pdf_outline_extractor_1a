@@ -1,17 +1,21 @@
-# Ignore Python cache, models, and system files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# Python patterns
+*.egg-info/
+dist/
+build/
+*.egg
+
+# system files
+Thumbs.db
+*.tmp
+*~
+
+# Docker 
+.dockerignore
+
+# IDE patterns
 *.swp
-env/
-venv/
-.build/
-*.log
-models/*.pkl
-models/*.joblib
-output/
-input/
-*.DS_Store
-.idea/
-.vscode/
+*.swo
+
+# Environment files
+.env
+.env.local

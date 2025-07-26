@@ -1,0 +1,15 @@
+# Core PDF processing
+PyMuPDF>=1.23.0
+
+# Scientific computing (minimal - only for basic operations)
+numpy>=1.24.0
+
+# Performance monitoring
+psutil>=5.9.0
+
+# Utilities
+pathlib>=1.0.1
+typing-extensions>=4.7.0
+
+# System utilities
+python-dateutil>=2.8.2

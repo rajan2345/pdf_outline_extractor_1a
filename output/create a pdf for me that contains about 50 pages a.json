@@ -1,0 +1,262 @@
+{
+  "title": "the user completely love that pdf",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Part I: Foundations of Laplace Transform Theory",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Part II: Advanced Laplace Transform Theory",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Part III: Probability Theory and Measure Theory",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "create a pdf for me that contains about 50 pages",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "and should have elaborate discussion , theory ,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "and proofs with formulas about laplace and",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "calculus of probability with different heading",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "fonts which can make the user read the pdf ,make",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "the user completely love that pdf",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "The Unified Theory of Laplace Transforms and",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Calculus of Probability",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "5. Uniqueness and Inversion Theorems",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "9. Axiomatic Foundations of Probability",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1. Mathematical Foundations and Historical Context",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "6. Convolution and System Analysis",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "7. Applications in Signal Processing and Control Systems",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "8. Complex Analysis Perspectives",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "10. Random Variables and Distributions",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2. Definition and Existence Theory",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3. Fundamental Properties and Theorems",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4. Transform Tables and Key Relationships",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Part IV: Unified Applications and Advanced Topics",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Chapter 1: Mathematical Foundations and",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Historical Context",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Chapter 2: Definition and Existence Theory",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "13. Stochastic Processes and Laplace Methods",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1.1 Historical Development",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.1 Formal Definition",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "11. Moment Generating Functions",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "12. Central Limit Theorem and Advanced Results",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "14. Advanced Applications in Computer Science",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "15. Research Frontiers and Open Problems",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1.2 Mathematical Prerequisites",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Chapter 3: Fundamental Properties and Theorems",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Linearity Property",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "For",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Since",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Theorem 3.1 (Linearity): If",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.2 Existence Theorem",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.3 Exponential Order and Growth Conditions",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Let",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ". Then",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Proof: Let",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Applying the differentiation theorem:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Theorem 3.4 (First Shifting Theorem): If",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Theorem 3.5 (Second Shifting Theorem): If",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3.2 Differentiation Properties",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3.3 Integration Property",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3.4 Shifting Theorems",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Chapter 4: Transform Tables and Key",
+      "page": 5
+    }
+  ],
+  "metadata": {
+    "extraction_method": "heuristic",
+    "document_type": "academic",
+    "processing_time": 0.9116294384002686,
+    "total_pages": 19,
+    "total_headings": 50
+  }
+}

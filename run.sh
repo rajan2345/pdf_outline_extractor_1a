@@ -27,8 +27,11 @@ fi
 PDF_COUNT=$(find /app/input -name "*.pdf" -o -name "*.PDF" 2>/dev/null | wc -l)
 echo "Found $PDF_COUNT PDF files to process"
 
-# Create output directory
-mkdir -p /app/output
+# Check if output directory exists
+if [ ! -d "/app/output" ]; then
+    echo "Error: Output directory /app/output not found"
+    exit 1
+fi
 
 # Run the extraction
 echo "Starting heuristic-based extraction process..."

@@ -1,0 +1,68 @@
+{
+  "total_files": 6,
+  "successful": 6,
+  "failed": 0,
+  "total_headings": 119,
+  "total_time": 8.308517456054688,
+  "document_types": {
+    "promotional": 3,
+    "general": 2,
+    "unknown": 1
+  },
+  "results": [
+    {
+      "success": true,
+      "filename": "file01.pdf",
+      "output_file": "file01.json",
+      "processing_time": 0.21860575675964355,
+      "headings_count": 5,
+      "title": "Microsoft Word - LTC_CLAIM_FORMS .doc",
+      "doc_type": "promotional"
+    },
+    {
+      "success": true,
+      "filename": "file02.pdf",
+      "output_file": "file02.json",
+      "processing_time": 0.6216564178466797,
+      "headings_count": 50,
+      "title": "ISTQB Expert Level Modules Overview",
+      "doc_type": "general"
+    },
+    {
+      "success": true,
+      "filename": "file03.pdf",
+      "output_file": "file03.json",
+      "processing_time": 0.5824606418609619,
+      "headings_count": 5,
+      "title": "To Present a Proposal for Developing the Business Plan for the Ontario Digital Library",
+      "doc_type": "promotional"
+    },
+    {
+      "success": true,
+      "filename": "file04.pdf",
+      "output_file": "file04.json",
+      "processing_time": 0.19466400146484375,
+      "headings_count": 4,
+      "title": "Parsippany -Troy Hills STEM Pathways",
+      "doc_type": "unknown"
+    },
+    {
+      "success": true,
+      "filename": "file05.pdf",
+      "output_file": "file05.json",
+      "processing_time": 0.5954582691192627,
+      "headings_count": 5,
+      "title": "TOPJUMP - PARTY INVITATION 20161003 V01.cdr",
+      "doc_type": "promotional"
+    },
+    {
+      "success": true,
+      "filename": "sample-doc.pdf.pdf",
+      "output_file": "sample-doc.pdf.json",
+      "processing_time": 6.044311046600342,
+      "headings_count": 50,
+      "title": "premise infrastructure",
+      "doc_type": "general"
+    }
+  ]
+}

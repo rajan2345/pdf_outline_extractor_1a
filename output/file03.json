@@ -1,0 +1,37 @@
+{
+  "title": "To Present a Proposal for Developing the Business Plan for the Ontario Digital Library",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "More information regarding the envisioned phasing, funding and resources required for the",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "discretion, call on invited experts to advise on issues as required",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Expected term on the Steering Committee is the time required to complete development of the",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "RFP: R",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Ontario’s Digital Library",
+      "page": 2
+    }
+  ],
+  "metadata": {
+    "extraction_method": "heuristic",
+    "document_type": "promotional",
+    "processing_time": 0.5721137523651123,
+    "total_pages": 14,
+    "total_headings": 5
+  }
+}

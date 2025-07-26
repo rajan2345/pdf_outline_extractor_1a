@@ -1,0 +1,37 @@
+{
+  "title": "Microsoft Word - LTC_CLAIM_FORMS .doc",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "12. Amount of advance required",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Application form for grant of LTC advance",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Relationship",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "S.No",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 1
+    }
+  ],
+  "metadata": {
+    "extraction_method": "heuristic",
+    "document_type": "promotional",
+    "processing_time": 0.20964646339416504,
+    "total_pages": 1,
+    "total_headings": 5
+  }
+}

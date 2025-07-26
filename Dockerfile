@@ -37,7 +37,8 @@ ENV PYTHONUNBUFFERED=1
 ENV OMP_NUM_THREADS=4
 
 # Create input and output directories
-RUN mkdir -p /app/input /app/output
+COPY input/ ./input/
+COPY output/ ./output/
 
 # Set default command
 CMD ["./run.sh"]

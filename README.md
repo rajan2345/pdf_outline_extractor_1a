@@ -1,6 +1,3 @@
-Here's the corrected README.md file with proper Markdown syntax:
-
-```markdown
 # PDF Outline Extractor
 
 A robust heuristic-based PDF outline extraction system developed for Adobe India Hackathon 2025 - Round 1A. This tool automatically identifies and extracts document structure and headings from PDF files using advanced typography and layout analysis techniques.
@@ -12,6 +9,7 @@ This project addresses the complex challenge of automatically extracting meaning
 ## 🚀 Quick Start
 
 ### Prerequisites
+
 - Git
 - Docker (recommended) OR Python 3.9+
 
@@ -82,20 +80,26 @@ The system is built with a modular architecture:
 I designed this system around several key principles:
 
 ### Heuristic-Based Detection
+
 Instead of relying on machine learning models, I developed rule-based algorithms that analyze:
+
 - **Typography patterns**: Font sizes, weights, and styles
 - **Layout analysis**: Text positioning, centering, and spacing
 - **Content structure**: Numbering schemes, case patterns, and hierarchy
 
 ### Document Type Adaptation
+
 The system automatically detects and adapts to different document types:
+
 - **Academic papers**: Traditional hierarchical structure
 - **Business reports**: Section-based organization
 - **Promotional content**: Importance-based ranking
 - **Technical manuals**: Numbered and referenced sections
 
 ### Performance Optimization
+
 I implemented several optimizations:
+
 - Selective text analysis to reduce processing time
 - Efficient pattern matching with compiled regex
 - Memory-conscious page-by-page processing
@@ -160,19 +164,24 @@ python main.py
 ```
 
 ### Batch Processing
+
 The system automatically processes all PDF files in the input directory and generates individual JSON files plus a processing summary.
 
 ## 🎨 Design Decisions
 
 ### Why Heuristic-Only?
+
 After evaluating various approaches, I chose a heuristic-based solution because:
+
 - **Reliability**: Consistent results across different document types
 - **Performance**: No model loading or inference overhead
 - **Maintainability**: Clear, debuggable rule-based logic
 - **Portability**: Minimal dependencies and resource requirements
 
 ### Typography Analysis Engine
+
 I developed sophisticated algorithms to identify headings by analyzing:
+
 - Relative font sizes within documents
 - Bold and italic formatting patterns
 - Text positioning and alignment
@@ -180,6 +189,7 @@ I developed sophisticated algorithms to identify headings by analyzing:
 - Whitespace and spacing patterns
 
 ### Document Classification System
+
 The system includes intelligent document type detection that adapts extraction strategies based on content analysis, improving accuracy across diverse document formats.
 
 ## 📈 Performance Metrics
@@ -192,12 +202,14 @@ The system includes intelligent document type detection that adapts extraction s
 ## 🛠️ Development Notes
 
 ### Key Challenges Solved
+
 1. **Variable Typography**: Handling inconsistent font usage across documents
 2. **Layout Diversity**: Adapting to different document design patterns
 3. **Content Ambiguity**: Distinguishing headings from emphasized text
 4. **Performance Scaling**: Efficient processing of large documents
 
 ### Technical Stack
+
 - **PDF Processing**: PyMuPDF for reliable document parsing
 - **Text Analysis**: Custom algorithms with NumPy for numerical operations
 - **Containerization**: Docker for consistent deployment
@@ -217,14 +229,19 @@ cd pdf-outline-extractor
 ```bash
 docker build -t pdf-extractor .
 ```
+
 **For Linux users**
+
 ```bash
 docker run -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output pdf-extractor
 ```
+
 **For Windows users**
+
 ```bash
 docker run -v $(PWD)/input:/app/input -v $(PWD)/output:/app/output pdf-extractor
 ```
+
 **View results**
 
 ```bash
@@ -241,11 +258,13 @@ cat output/sample.json | head -20
 ## 🔍 Troubleshooting
 
 **No output files generated?**
+
 - Verify PDFs are in the input directory
 - Check file permissions
 - Review extraction.log for detailed error information
 
 **Unexpected results?**
+
 - Enable verbose mode with `--verbose` flag
 - Ensure PDFs are not password-protected
 - Try with simpler documents first to isolate issues
@@ -256,5 +275,8 @@ Developed for Adobe India Hackathon 2025 - Round 1A
 
 ---
 
-*This project demonstrates advanced document analysis techniques using pure algorithmic approaches, achieving reliable PDF outline extraction without machine learning dependencies.*
+_This project demonstrates advanced document analysis techniques using pure algorithmic approaches, achieving reliable PDF outline extraction without machine learning dependencies._
+
+```
+
 ```
